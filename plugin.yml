@@ -1,11 +1,11 @@
 name: PlayerVaults
 main: PlayerVaults\PlayerVaults
-api: 3.0.0
+api: 4.0.0
 version: 2.0
 commands:
   playervault:
     default: true
     aliases: ["pv"]
 permissions:
-  playervaults.vault.o:
+  playervaults.vault.0:
     default: true
